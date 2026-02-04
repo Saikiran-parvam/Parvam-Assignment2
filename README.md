@@ -3,7 +3,7 @@
 This project is a basic college website created using HTML.
 
 ## 📄 Files
-- `index.html` (main page)
+- `college.html` (main page)
 - Other HTML files (if any)
 
 ## ✨ Features
